@@ -1,0 +1,11 @@
+order_id,customer,product,price,date
+1001,Alice John,Laptop,899.99,15/01/2024
+1002,Bob Smith,Smartphone,499.99,16/01/2024
+1003,Charlie Bronwn,Headphone,79.99,17/01/2024
+1004,David Wilson,Laptop,899.99,18/01/2024
+1005,Emma Davis,Smartwatch,199.99,19/01/2024
+1006,Frank Green,Laptop,999.99,20/01/2024
+1007,Grace Hall,Tablet,299.99,21/01/2024
+1008,Hannah Lewis,Monitor,179.99,22/01/2024
+1009,Ian Scott,Ian Scott,49.99,23/01/2024
+1010,Julia Adams,Julia Adams,29.99,24/01/2024

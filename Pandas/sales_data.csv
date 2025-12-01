@@ -1,0 +1,11 @@
+region,product,sales,profit
+North,Widget A,300,50
+South,Widget B,600,120
+East,Widget C,450,90
+West,Widget A,700,140
+North,Widget B,200,40
+South,Widget C,550,110
+East,Widget A,400,80
+West,Widget B,800,160
+North,Widget C,350,70
+South,Widget A,500,100
